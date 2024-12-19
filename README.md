@@ -47,8 +47,7 @@
             font-size: 0.9em;
         }
     </style>
-</head>
-<body>
+
     <div class="container">
         <h1>Privacy Policy for Galactic Warrior</h1>
         <p><em>Last updated: December 18, 2024</em></p>
