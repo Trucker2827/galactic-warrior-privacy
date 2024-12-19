@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +6,7 @@
     <title>Galactic Warrior - Privacy Policy</title>
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             line-height: 1.6;
             max-width: 800px;
             margin: 0 auto;
@@ -21,13 +20,14 @@
             border-radius: 10px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-        h1 {
+        h1, h2 {
             color: #2c3e50;
+        }
+        h1 {
             border-bottom: 2px solid #3498db;
             padding-bottom: 10px;
         }
         h2 {
-            color: #2c3e50;
             margin-top: 25px;
         }
         a {
